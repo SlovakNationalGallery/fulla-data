@@ -6,7 +6,7 @@ metadata and images of artworks from Ľudovít Fulla (painter, graphic artist, i
 ##other resources
 
 
-* high resolution images package: [fulla-hires.zip] (http://isg.cedvu.sk/share/fulla-hires.zip) [116 MB]
+* high resolution images package: [fulla-hires.zip] (http://isg.cedvu.sk/share/fulla-hires.zip) [13 files, 116 MB]
 * [OAI-PMH data provider] (http://www.webumenia.sk/oai-pmh/?verb=ListRecords&metadataPrefix=oai_dc&set=Fulla_SNG) (OAI Protocol for Metadata Harvesting that serves records using XML format)
 * browse [Ľudovít Fulla at webumenia.sk](http://www.webumenia.sk/web/guest/search/-/simpleSearch/query=%22%C4%BDudov%C3%ADt+Fulla%22&autocomplete=true)
 
